@@ -7,6 +7,10 @@ The vehicle also has to do this in a certain amount of time, which is given on t
 Lastly, for bonus points, the vehicle must be able to curve. The event judge will place a water bottle down, and you can place a water bottle next to it. Then, the vehicle has to curve between the two bottles and still go to the endpoint as accurately as possible, with concern for time and distance, but the bonus points help your score.
 
 
+<img width="916" height="318" alt="image" src="https://github.com/user-attachments/assets/9754160c-1d27-454f-9043-39d68ecde30a" />
+
+
+
 For my attempt, I want to use 2 motors at the back of the vehicle, with 2 wheels. 
 Both motors will have encoders on them to track distance. 
 I also want to try to use PID to increase the accuracy,
