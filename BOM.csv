@@ -1,0 +1,4 @@
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL
+ESP32 DevKit C-VE,Microcontroller board,1,9.99,9.99,https://example.com/esp32
+TB6612FNG Motor Driver,Dual motor driver,1,5.50,5.50,https://example.com/tb6612
+N20 Gear Motor + Encoder,DC motor + encoder,2,7.50,15.00,https://example.com/n20
