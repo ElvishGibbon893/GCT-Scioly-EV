@@ -12,6 +12,10 @@ Lastly, for bonus points, the vehicle must be able to curve. The event judge wil
 
 There are many kits available for electric vehicles, but I wanted to make this because I think that using kits isn't really fair, as some teams might have more access to them than others due to their high prices. Also, for a science competition, buying and assembling a kit doesn't seem very creative. 
 
+Example of a kit:
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/e499fe2d-cbca-4b41-81ae-38b7eadcc73b" />
+
+
 For my attempt, I want to use 2 motors at the back of the vehicle, with 2 wheels. 
 Both motors will have encoders on them to track distance. 
 I also want to try to use PID to increase the accuracy,
