@@ -1,16 +1,14 @@
-Item,Description,Quantity,Unit Price ($),Total Price ($),URL
-ESP32 DevKit C-VE,Wi-Fi + Bluetooth microcontroller board for main control,1,9.99,9.99,https://www.amazon.com/dp/B08D6TQ3ZL
-N20 Motor with Encoder,Compact DC gear motor with built-in rotary encoder for speed/position feedback,2,7.50,15.00,https://www.pololu.com/product/4823
-TB6612FNG Motor Driver,Dual-channel motor driver module compatible with ESP32,1,5.50,5.50,https://www.sparkfun.com/products/14451
-Rechargeable NiMH AA Batteries,1.2V AA rechargeable cells for powering the system,16,1.00,16.00,https://www.amazon.com/dp/B00HZV9T0G
-AA NiMH Charger,Smart charger for AA NiMH batteries,1,12.00,12.00,https://www.amazon.com/dp/B00000J47W
-4-pin Push Button,Momentary push button switch for user input,1,1.50,1.50,https://www.amazon.com/dp/B07KX9Z9Z9
-Dupont Wire Connectors,Assorted jumper wires for breadboard and module connections,1 set,5.00,5.00,https://www.amazon.com/dp/B01EV70C78
-Electrical Tape,Insulating tape for securing and protecting wiring,1 roll,2.00,2.00,https://www.amazon.com/dp/B0000BYDKO
-Heat Shrink Tubing,Assorted tubing for durable wire insulation,1 set,6.00,6.00,https://www.amazon.com/dp/B07D7QKQJX
-Soldering Iron,Basic soldering tool for assembling and repairing circuits,1,15.00,15.00,https://www.amazon.com/dp/B000AS28UC
-Caster Ball,Omnidirectional support wheel for balance,1,2.50,2.50,https://www.amazon.com/dp/B07P6VY9X9
-Wheel Hub,Mounting hub for attaching wheels to motor shafts,2,3.00,6.00,https://www.amazon.com/dp/B07X9Y1B5Z
-Wheels,Rubber wheels for traction and movement,2,3.00,6.00,https://www.amazon.com/dp/B07X9Y1B5Z
-Bevel Gears,Plastic bevel gears for transferring motion at an angle,2,4.00,8.00,https://www.amazon.com/dp/B07KX9Z9Z9
-Carbon Fiber Rod,Lightweight structural rod for chassis reinforcement,1,10.00,10.00,https://www.amazon.com/dp/B07KX9Z9Z9
+Item,Description,Quantity,Unit Price ($),Total Price ($),Total w/ Shipping ($),URL
+ESP32 DevKit C-VE,Microcontroller board,1,1.76,1.76,1.76,https://www.aliexpress.us/item/3256807824311909.html
+N20 Motor with Encoder,DC motor encoder,2,5.56,11.12,15.12,https://www.aliexpress.us/item/3256807824311909.html
+TB6612FNG Motor Driver,Motor driver,1,0.50,0.99,0.99,https://www.aliexpress.us/item/3256807511240138.html
+Rechargeable NiMH AA Batteries,AA batteries,16,0.22,3.52,3.52,https://www.aliexpress.us/item/3256807616674362.html
+8‑Cell Battery Holder,Battery holder,1,1.01,1.01,4.89,https://www.aliexpress.us/item/3256808350428970.html
+4‑pin Push Button,Push button,1,0.10,0.10,0.10,https://www.aliexpress.us/item/3256807042013239.html
+Soldering Iron,Soldering kit,1,14.68,14.68,14.68,https://www.aliexpress.com/p/trade/confirm.html?objectId=3256806638677114
+Caster Ball,Support wheel,1,0.99,0.99,0.99,https://www.aliexpress.us/p/trade/confirm.html?objectId=3256810249272102
+Wheels,Robot wheels,2,2.70,5.40,5.40,(combined shipping with hub)
+Wheel Hub,Wheel hub,2,4.20,8.40,18.20,(combined shipping 9.80)
+Bevel Gears,Gear pair,2,9.99,19.98,19.98,https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCSQBX9
+Carbon Fiber Rod,Structural support rod,1,4.34,4.34,13.71,https://windcatcherrc.com/product/carbon-fiber-rod-4mm-x-1000mm/?srsltid=AfmBOooV-8OOr1YNeYIuv_0s694clOZrVEfGuzZnRz_WsWxRPSxt2pnh_XU
+GRAND TOTAL,,,,72.62,99.34,
