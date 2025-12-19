@@ -1,14 +1,14 @@
-Item,Description,Quantity,Unit Price ($),Total Price ($),Total w/ Shipping ($),URL
-ESP32 DevKit,Microcontroller board,1,1.76,1.76,1.76,https://www.aliexpress.us/item/3256807824311909.html
-N20 Motor with Encoder,DC motor encoder,2,5.56,11.12,15.12,https://www.aliexpress.us/item/3256807824311909.html
-TB6612FNG Motor Driver,Motor driver,1,0.50,0.99,0.99,https://www.aliexpress.us/item/3256807511240138.html
-Rechargeable NiMH AA Batteries,AA batteries,16,0.22,3.52,3.52,https://www.aliexpress.us/item/3256807616674362.html
-8‑Cell Battery Holder,Battery holder,1,1.01,1.01,4.89,https://www.aliexpress.us/item/3256808350428970.html
-4‑pin Push Button,Push button,1,0.10,0.10,0.10,https://www.aliexpress.us/item/3256807042013239.html
-Soldering Iron,Soldering kit,1,14.68,14.68,14.68,https://www.aliexpress.com/p/trade/confirm.html?objectId=3256806638677114
-Caster Ball,Support wheel,1,0.99,0.99,0.99,https://www.aliexpress.us/p/trade/confirm.html?objectId=3256810249272102
-Wheels,Main wheels,2,2.70,5.40,(combined shipping with hub),https://banebots.com/t61p-124bo/ 
-Wheel Hub,Wheel hub,2,4.20,8.40,18.20,https://banebots.com/t61h-rm41/
-Bevel Gears,Pair of Gears,2,9.99,19.98,19.98,https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCSQBX9
-Carbon Fiber Rod,Axle,1,4.34,4.34,13.71,https://windcatcherrc.com/product/carbon-fiber-rod-4mm-x-1000mm/?srsltid=AfmBOooV-8OOr1YNeYIuv_0s694clOZrVEfGuzZnRz_WsWxRPSxt2pnh_XU
-GRAND TOTAL,,,,72.62,99.34,
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL
+ESP32 DevKit,Microcontroller board,1,3.81,3.81,https://www.aliexpress.us/item/3256809798282589.html...
+N20 Motor with Encoder,DC motor encoder,2,8.41,16.82,https://www.aliexpress.us/item/3256807385407345.html...
+TB6612FNG Motor Driver,Motor driver,1,3.17,3.17,https://www.aliexpress.us/item/3256807511240138.html
+Rechargeable NiMH AA Batteries,AA batteries,16,0.66,10.52,https://www.aliexpress.us/item/3256807616674362.html
+8‑Cell Battery Holder,Battery holder,1,1.01,1.01,https://www.aliexpress.us/item/3256808350428970.html
+4‑pin Push Button,Push button,1,2.06,2.06,https://www.aliexpress.us/item/3256807042013239.html
+Soldering Iron,Soldering kit,1,22.58,22.58,https://www.aliexpress.com/p/trade/confirm.html?objectId=3256806638677114
+Caster Ball,Support wheel,1,8.83,8.83,https://www.aliexpress.us/item/3256810227856933.html...
+Wheels,Main wheels,2,3.61,7.22,https://www.aliexpress.us/item/3256806035090281.html...
+Carbon Fiber Rod,Axle,1,4.52,4.52,https://www.aliexpress.us/item/3256809197885378.html...
+Bevel Gears,Pair of gears,2,9.99,19.98,https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCSQBX9
+GRAND TOTAL,,,,96.52,
+GRAND TOTAL w/ Shipping,,,,100.40,
