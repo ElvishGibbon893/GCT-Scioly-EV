@@ -20,3 +20,9 @@ For my attempt, I want to use 2 motors at the back of the vehicle, with 2 wheels
 Both motors will have encoders on them to track distance. 
 I also want to try to use PID to increase the accuracy,
 My goal is to cut the weight of the vehicle as much as possible and to make it as simple as possible.
+
+Here's a 3d Mockup of my design.
+<img width="937" height="549" alt="image" src="https://github.com/user-attachments/assets/fdd42d7a-8fb9-415b-b621-349235c3ebe6" />
+<img width="533" height="427" alt="image" src="https://github.com/user-attachments/assets/a7c7c4c0-c9f1-4625-ac71-c5e11c1c5e5f" />
+<img width="760" height="581" alt="image" src="https://github.com/user-attachments/assets/e94bbb78-b44d-46f4-943a-a982a2b7a7f5" />
+
